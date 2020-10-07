@@ -1,17 +1,16 @@
 ---
-title: THE COLORED DOLL
-date: 2020-10-02T02:54:57.499Z
+title: The Colored Doll
+date: 2016-09-18T02:54:57.499Z
 categories:
-  - 
+  - null
 tags:
   - creative-nonfiction
 ---
-
 # The Colored Doll
 
 ## DOWN Magazine, September 2016
 
-Hard plastic hands, peach skin, brittle synthetic lashes, pellet-filled body. Lifeless, but isn’t she precious?  Baby doll?
+Hard plastic hands, peach skin, brittle synthetic lashes, pellet-filled body. Lifeless, but isn’t she precious? Baby doll?
 
 The other day I saw a little Black girl holding her mother’s hand, boarding the bus to New Haven.
 
