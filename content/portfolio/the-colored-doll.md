@@ -1,6 +1,6 @@
 ---
-title: THE COLORED DOLL
-date: 2020-10-02T02:54:57.499Z
+title: The Colored Doll
+date: 2016-09-18T02:54:57.499Z
 categories:
   - null
 tags:
