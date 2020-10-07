@@ -1,6 +1,6 @@
 ---
 title: Questioning Home Through Essay Assignments
-date: 2020-10-07T10:53:33.121Z
+date: 2017-02-17T11:53:33.121Z
 categories:
   - null
 tags:
