@@ -1,6 +1,6 @@
 ---
 title: Asian American Autobiographies, Teaching Genre Expectations, and
-  Single-Author Folk Narratives in Ed Young's Lon Po Po and Mazing Hong
+  Single-Author Folk Narratives in Ed Young's Lon Po Po and Maxine Hong
   Kingston's The Woman Warrior
 date: 2020-08-29T11:14:23.893Z
 categories:
@@ -8,7 +8,7 @@ categories:
 tags:
   - academic-nonfiction
 ---
-# Asian American Autobiographies, Teaching Genre Expectations, and Single-Author Folk Narratives in Ed Young's *Lon Po Po* and Mazing Hong Kingston's *The Woman Warrior*
+# Asian American Autobiographies, Teaching Genre Expectations, and Single-Author Folk Narratives in Ed Young's *Lon Po Po* and Maxine Hong Kingston's *The Woman Warrior*
 
 ## Unfound: The Princeton Journal of Asian American Studies, Volume 6, 2019
 
