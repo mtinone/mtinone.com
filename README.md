@@ -1,4 +1,4 @@
-# Marina trying to be a good person and do things without Leo's help.
+Marina trying to be a good person and do things without Leo's help.
 
 # Source for [mtinone.com](https://mtinone.com)
 
