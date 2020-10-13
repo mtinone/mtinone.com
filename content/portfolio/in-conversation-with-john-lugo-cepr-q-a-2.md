@@ -4,7 +4,6 @@ date: 2016-11-04T10:51:27.463Z
 categories:
   - null
 tags:
-  - interview
   - journalism
 ---
 # In Conversation with John Lugo: CEPR Q&A #2
