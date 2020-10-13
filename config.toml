@@ -31,7 +31,7 @@ weight = 4
     startLevel = 2
 
 [params]
-  description = "This website is home to the things I've written. I hope you enjoy reading them!"
+  description = "Marina Tinone is a writer based in Connecticut."
   mainSection = "portfolio"
   showAllPostsOnHomePage = false
   postsOnHomePage = 5
