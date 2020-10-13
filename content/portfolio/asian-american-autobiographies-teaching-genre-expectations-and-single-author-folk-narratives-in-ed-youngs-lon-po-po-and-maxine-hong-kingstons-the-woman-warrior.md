@@ -2,7 +2,7 @@
 title: Asian American Autobiographies, Teaching Genre Expectations, and
   Single-Author Folk Narratives in Ed Young's Lon Po Po and Maxine Hong
   Kingston's The Woman Warrior
-date: 2020-10-13T11:26:20.837Z
+date: 2020-08-29T11:26:46.658Z
 categories:
   - null
 tags:
