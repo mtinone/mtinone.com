@@ -5,10 +5,9 @@ copyright = "Marina Tinone"
 theme = "cactus"
 pluralizeListTitles = "false"
 
-
 [[menu.main]]
-name = "Home"
-url = "/"
+name = "About"
+url = "/about"
 weight = 1
 
 [[menu.main]]
@@ -20,11 +19,6 @@ weight = 2
 name = "Tags"
 url = "/tags"
 weight = 3
-
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 4
 
 [markup]
   [markup.tableOfContents]
