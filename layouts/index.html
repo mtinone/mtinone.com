@@ -25,7 +25,7 @@
           <i class="fab fa-{{ lower $elem.name }}"></i>
         </a>
         {{ end }}
-        {{- print "⠀/ " -}}
+        {{- print "&#32;/ " -}}
       {{ end }}
       {{ if isset .Site.Params "description" }}
         {{ .Site.Params.description }}
