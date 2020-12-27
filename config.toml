@@ -1,8 +1,10 @@
 baseURL = "http://mtinone.com"
 languageCode = "en-us"
-title = "Marina Tinone | Writing"
+title = "Marina Tinone"
 copyright = "Marina Tinone"
 theme = "cactus"
+pluralizeListTitles = "false"
+
 
 [[menu.main]]
 name = "Home"
