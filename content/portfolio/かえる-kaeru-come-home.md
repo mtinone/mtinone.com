@@ -6,7 +6,7 @@ categories:
 tags:
   - creative-nonfiction
 ---
-## かえる, Kaeru, Come Home
+# かえる, Kaeru, Come Home
 
 ## 295 Magazine, April 2020
 
