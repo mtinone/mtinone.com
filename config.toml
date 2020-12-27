@@ -27,7 +27,7 @@ weight = 3
     startLevel = 2
 
 [params]
-  description = "This website is home to the things I've written. I hope you enjoy reading them!"
+  description = "@mtinone"
   mainSection = "portfolio"
   showAllPostsOnHomePage = false
   postsOnHomePage = 5
@@ -45,3 +45,11 @@ weight = 3
 [[params.social]]
   name = "instagram"
   link = "https://instagram.com/mtinone"
+  
+[[params.social]]
+  name = "medium"
+  link = "https://medium.com/@mtinone"
+  
+[[params.social]]
+  name = "substack"
+  link = "https://mtinone.substack.com/"
