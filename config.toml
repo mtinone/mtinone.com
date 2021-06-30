@@ -35,8 +35,8 @@ weight = 3
   rss = true
 
 [[params.social]]
-  name = "facebook"
-  link = "https://facebook.com/mtinone"
+  name = "ko-fi"
+  link = "https://ko-fi.com/mtinone"
 
 [[params.social]]
   name = "twitter"
