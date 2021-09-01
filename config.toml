@@ -41,7 +41,6 @@ weight = 3
 [[params.social]]
   name = "twitter"
   link = "https://twitter.com/mtinone"
-  link = "https://twitter.com/mtinone"  
 
 [[params.social]]
   name = "instagram"
@@ -49,7 +48,6 @@ weight = 3
 
 [[params.social]]
   name = "medium"
-  link = "https://medium.com/@mtinone"
   link = "https://medium.com/@mtinone"  
   
 [[params.social]]
