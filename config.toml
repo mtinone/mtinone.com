@@ -39,8 +39,18 @@ weight = 3
   link = "https://ko-fi.com/mtinone"
 
 [[params.social]]
+  name = "twitter"
+  link = "https://twitter.com/mtinone"
+  link = "https://twitter.com/mtinone"  
+
+[[params.social]]
   name = "instagram"
   link = "https://instagram.com/mtinone"
+
+[[params.social]]
+  name = "medium"
+  link = "https://medium.com/@mtinone"
+  link = "https://medium.com/@mtinone"  
   
 [[params.social]]
   name = "tinyletter"
