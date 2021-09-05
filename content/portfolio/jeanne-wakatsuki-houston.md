@@ -5,6 +5,7 @@ categories:
   - null
 tags:
   - academic-nonfiction
+  - anthology
 ---
 # Jeanne Wakatsuki Houston
 
