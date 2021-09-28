@@ -4,7 +4,7 @@ date: 2016-01-02T02:52:34.000Z
 ---
 # About
 
-![marina-tinone-headshot](/images/win_20210928_13_37_30_pro-2-.jpg)
+![marina-tinone-headshot](/images/mtinone-headshot.webp)
 
 Marina Tinone is a writer who creates the things they wish they could have held when they were growing up. You are welcome to follow their weekly writing on [](https://mtinone.substack.com/p/coming-soon)[TinyLetter](https://tinyletter.com/mtinone) as they continue to grow into their life. 
 
