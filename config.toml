@@ -45,11 +45,7 @@ weight = 3
 [[params.social]]
   name = "instagram"
   link = "https://instagram.com/mtinone"
-
-<!--  [[params.social]]
-  name = "medium"
-  link = "https://medium.com/@mtinone"  -->
-  
+ 
 [[params.social]]
   name = "tinyletter"
   link = "https://tinyletter.com/mtinone/"
