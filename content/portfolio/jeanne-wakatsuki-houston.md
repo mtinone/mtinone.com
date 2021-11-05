@@ -17,4 +17,4 @@ From Amazon: "This volume collects, in one place, a breadth of information about
 
 "More than 120 alphabetical entries round out the volume and cover important Asian North American authors. Historical information is presented in clear and engaging ways, and author entries emphasize biographical or textual details that are significant to contemporary young adults. Special attention has been given to pioneering authors from the late 19th century through the early 1970s and to influential or well-known contemporary authors, especially those likely to be studied in high school or university classrooms."
 
-(purchase volume on [Amazon](https://smile.amazon.com/Asian-American-Literature-Encyclopedia-Students/dp/1440872880))
+(purchase volume on the [ABC-CLIO website](https://products.abc-clio.com/ABC-CLIOCorporate/product.aspx?pc=A6172C)) (purchase volume on [Amazon](https://smile.amazon.com/Asian-American-Literature-Encyclopedia-Students/dp/1440872880))
