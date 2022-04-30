@@ -32,7 +32,9 @@ weight = 4
     startLevel = 2
 
 [params]
-  description = "@mtinone"
+  description = "@mtinone 
+  
+  Marina Tinone is a writer who creates the things they wish they could have held when they were growing up. Their writing tends to focus on youth, memory, and responsibility. They are also fascinated by digital culture, cultural perception, and self-reception."
   mainSection = "portfolio"
   showAllPostsOnHomePage = false
   postsOnHomePage = 5
