@@ -16,9 +16,14 @@ url = "/portfolio"
 weight = 2
 
 [[menu.main]]
+name = "Happy Friday"
+url = "/happyfriday"
+weight = 3
+
+[[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 3
+weight = 4
 
 [markup]
   [markup.tableOfContents]
