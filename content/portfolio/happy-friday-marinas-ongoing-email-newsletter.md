@@ -1,6 +1,6 @@
 ---
 title: "Happy Friday: Marina's Weekly Email Newsletter "
-date: 2022-04-30T03:03:02.528Z
+date: 2022-04-30T01:23:00.000Z
 categories: []
 tags:
   - happy-friday
