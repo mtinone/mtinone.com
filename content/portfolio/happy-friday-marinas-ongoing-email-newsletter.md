@@ -1,5 +1,5 @@
 ---
-title: "Happy Friday: Marina's ongoing email newsletter."
+title: "Happy Friday: Marina's Weekly Email Newsletter "
 date: 2022-04-30T03:03:02.528Z
 categories: []
 tags:
