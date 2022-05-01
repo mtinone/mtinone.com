@@ -7,6 +7,7 @@ tags:
   - creative-nonfiction
   - lyric-essay
   - poetry
+  - happy-friday
 ---
 # Beating
 
