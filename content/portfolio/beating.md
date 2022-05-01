@@ -15,4 +15,4 @@ tags:
 
 I once wanted to be a mermaid, staring skyward from the bottom of the ocean. I wondered what was out there, what would be different in this buoyant world, living beneath two skies.
 
-([continue reading](https://www.twoifbyseapress.org/volumeone))
+([continue reading](https://www.twoifbyseapress.org/volumeone)) (this piece was first distributed to subscribers of [Happy Friday](https://www.mtinone.com/portfolio/happy-friday-marinas-ongoing-email-newsletter/))
