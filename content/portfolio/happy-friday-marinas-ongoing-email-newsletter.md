@@ -7,6 +7,6 @@ tags:
 ---
 # Happy Friday
 
-"Happy Friday" is Marina's weekly email newsletter and is Marina's favorite Friday writing task. It began on May 25, 2018 and will not be ending any time soon. Please subscribe! 
+"Happy Friday" is Marina's weekly email newsletter, and it is their favorite thing about Friday. It began on May 25, 2018 and will not be ending any time soon. Please subscribe! 
 
 (subscribe to [Happy Friday on TinyLetter](http://tinyletter.com/mtinone))
