@@ -7,6 +7,7 @@ categories:
   - null
 tags:
   - academic-nonfiction
+  - marina's-current-faves
 ---
 # Asian American Autobiographies, Teaching Genre Expectations, and Single-Author Folk Narratives in Ed Young's *Lon Po Po* and Maxine Hong Kingston's *The Woman Warrior*
 
