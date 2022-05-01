@@ -4,6 +4,7 @@ date: 2020-11-10T13:00:00.000Z
 tags:
   - creative-nonfiction
   - anthology
+  - happy-friday
 ---
 # Beyond the Sea
 
