@@ -4,7 +4,7 @@ date: 2021-08-17T02:05:06.881Z
 tags:
   - illustration
   - pugkid+pupper
-  - marina's-faves
+  - marina's-current-faves
 ---
 ![](/images/2021-08-10_meadow.jpg "Pugkid and Pupper.")
 
