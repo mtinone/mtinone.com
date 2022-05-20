@@ -4,7 +4,7 @@ date: 2017-10-26T11:03:10.363Z
 categories:
   - null
 tags:
-  - journalism
+  - community
   - art-review
 ---
 # Topdog/Underdog: A Family Affair
