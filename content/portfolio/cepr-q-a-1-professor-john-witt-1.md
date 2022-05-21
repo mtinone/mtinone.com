@@ -4,7 +4,7 @@ date: 2016-10-14T10:48:53.247Z
 categories:
   - null
 tags:
-  - journalism
+  - community
 ---
 # CEPR Q&A #1: Professor John Witt
 
