@@ -6,8 +6,12 @@ date: 2022-04-30T20:49:58.729Z
 
 ![marina-tinone-headshot](/images/mtinone-headshot.webp)
 
-Marina Tinone is a writer who creates the things they wish they could have held when they were growing up. Their writing tends to focus on youth, memory, and responsibility. They are also fascinated by digital culture, cultural perception, and self-reception. Their Pushcart Prize-nominated essay, "[Beyond the Sea](https://www.mtinone.com/portfolio/beyond-the-sea/)", can be found in the inaugural Connecticut Literary Anthology (2020), and their prose poem "[HMU](https://www.mtinone.com/portfolio/hmu/)" can be read online on Digital America. 
+Marina Tinone is a writer who creates the things they wish they could have held when they were growing up. Their writing tends to focus on youth, memory, and responsibility. They are also fascinated by digital culture, cultural perception, and self-reception. Their Pushcart Prize-nominated essay, "[Beyond the Sea](https://www.mtinone.com/portfolio/beyond-the-sea/)", can be found in the inaugural Connecticut Literary Anthology (2020), and their prose poem "[HMU](https://www.mtinone.com/portfolio/hmu/)" can be read online in Digital America. 
 
-You are welcome to subscribe to their weekly writing on their email newsletter, "[Happy Friday](http://tinyletter.com/mtinone)", as they continue to grow into their life. Please also feel free to follow Marina on [Instagram](https://www.instagram.com/mtinone/) or [Twitter](https://twitter.com/mtinone), and if you are interested in monetarily supporting their writing, your tip on [Marina's Ko-fi page](https://ko-fi.com/mtinone) is gratefully received and appreciated. For business inquiries, please email: mtinone \[dot] media \[at]  gmail \[dot] com. 
+Marina is also an independent scholar of Asian American youth literature and culture. Following [Rudine Sims Bishop's windows and mirrors](https://ncte.org/blog/2016/02/windows-mirrors-sliding-doors/), Marina's interest is in the "frames" of these windows and mirrors. Marina's focus is on the incidental and/or intentional context surrounding window and mirror texts and how this context shapes the reception and perception of a racialized American identity. 
+
+You are welcome to subscribe to their weekly writing on their email newsletter, "[Happy Friday](http://tinyletter.com/mtinone)", as they continue to grow into their life. Please also feel free to follow Marina on [Instagram](https://www.instagram.com/mtinone/) or [Twitter](https://twitter.com/mtinone), and if you are interested in monetarily supporting their writing, your tip on [Marina's Ko-fi page](https://ko-fi.com/mtinone) is gratefully received and appreciated. 
+
+For business inquiries, please email: mtinone \[dot] media \[at]  gmail \[dot] com. 
 
 Thank you for visiting!
