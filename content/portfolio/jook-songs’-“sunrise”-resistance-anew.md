@@ -4,7 +4,7 @@ date: 2017-04-07T10:59:35.363Z
 categories:
   - null
 tags:
-  - journalism
+  - community
   - art-review
 ---
 # Jook Songs’ “Sunrise”: Resistance Anew
