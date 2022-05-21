@@ -6,6 +6,10 @@ tags:
   - scholarship
   - community
 ---
+# The Very Asian Foundation's May Book Project 
+
+## Book List Coalition Contributor
+
 "In celebration of Asian American Pacific Islander (AAPI) Heritage Month, [The Very Asian Foundation](https://www.veryasianfoundation.org/), in partnership with [We Need Diverse Books](https://diversebooks.org), launches The May Book Project to help schools and libraries build and maintain robust Asian American youth literature collections.
 
 "We are raising national awareness of the need to create inclusive libraries, give readers access to up-to-date Asian American youth literature, and provide funding for donating books to libraries.
