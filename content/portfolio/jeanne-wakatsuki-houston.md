@@ -4,7 +4,7 @@ date: 2021-08-31T15:42:33.878Z
 categories:
   - null
 tags:
-  - academic-nonfiction
+  - scholarship
   - anthology
 ---
 # Jeanne Wakatsuki Houston
