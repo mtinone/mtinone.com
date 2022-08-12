@@ -5,6 +5,7 @@ categories:
   - null
 tags:
   - creative-nonfiction
+  - happy-friday
 ---
 # Apples
 
