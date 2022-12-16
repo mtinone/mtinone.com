@@ -39,10 +39,6 @@ weight = 4
   link = "https://ko-fi.com/mtinone"
 
 [[params.social]]
-  name = "twitter"
-  link = "https://twitter.com/mtinone"
-
-[[params.social]]
   name = "instagram"
   link = "https://instagram.com/mtinone"
  
