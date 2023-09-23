@@ -43,5 +43,5 @@ weight = 4
   link = "https://instagram.com/mtinone"
  
 [[params.social]]
-  name = "tinyletter"
-  link = "https://tinyletter.com/mtinone/" 
+  name = "buttondown"
+  link = "https://buttondown.email/mtinone" 
