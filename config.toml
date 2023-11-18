@@ -27,7 +27,7 @@ weight = 4
     startLevel = 2
 
 [params]
-  description = "Marina is a writer who creates the things they wish they could have held when they were growing up. Their writing tends to focus on youth, memory, and responsibility. They are also fascinated by digital culture, cultural perception, and self-reception."
+  description = "Marina writes about youth, memory, and responsibility."
   mainSection = "portfolio"
   showAllPostsOnHomePage = false
   postsOnHomePage = 5
